@@ -1,2 +1,2 @@
-# c25
-added the image and learned the concept of inheritance
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
